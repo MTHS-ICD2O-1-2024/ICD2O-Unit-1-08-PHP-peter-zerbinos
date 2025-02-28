@@ -5,7 +5,7 @@
     <meta charset="utf-8" />
     <meta name="description" content="The XXX program, PHP" />
     <meta name="keywords" content="mths, icd2o" />
-    <meta name="author" content="Mr. Coxall" />
+    <meta name="author" content="Peter Zerbinos" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link
       rel="stylesheet"
@@ -13,7 +13,7 @@
     />
     <link
       rel="stylesheet"
-      href="https://code.getmdl.io/1.3.0/material.indigo-pink.min.css"
+      href="https://code.getmdl.io/1.3.0/material.light_green-lime.min.css"
     />
     <link rel="stylesheet" href="./css/style.css" />
     <link
