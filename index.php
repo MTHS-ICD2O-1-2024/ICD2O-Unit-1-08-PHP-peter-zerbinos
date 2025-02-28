@@ -46,7 +46,7 @@
       </header>
       <main class="mdl-layout__content">
         <div class="right-image">
-          <img src="./images/javaScript.webp" alt="Java Script" />
+          <img src="./images/phpLogo.png" alt="PHP Logo" />
         </div>
         <div class="page-content">Instructions here ...</div>
         <br />
