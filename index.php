@@ -46,7 +46,7 @@
       </header>
       <main class="mdl-layout__content">
         <div class="right-image">
-          <img src="./images/phpLogo.png" alt="PHP Logo" />
+        <img src="./images/phpLogo.png" alt="PHP Logo" width="250" height="150">
         </div>
         <div class="page-content">Instructions here ...</div>
         <br />
